@@ -541,9 +541,6 @@ blockquote footer {
     border-radius: 10px;
 }
 
----------------------------------------
-
 .puisne{
-    color:grey;
-    filter: opacity(0.5);
+    color: var(--color-text-secondary);
 }
